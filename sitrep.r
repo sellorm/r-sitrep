@@ -40,7 +40,7 @@ To skip a test, supply that test name as a command line parameter.
 For example, to skip the 'bioc' and 'rstudio' tests, run:
 $ sitrep.r rstudio bioc
 
-Please contact Mark Sellors for more information on this script
+For more info see: https://github.com/sellorm/r-sitrep
 "
 
 
