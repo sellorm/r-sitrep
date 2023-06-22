@@ -2,7 +2,7 @@
 
 The file `sitrep.r` is a command line utility that should be copied to the target system and run.
 
-It will produce a markdown format report with details of the environment.
+It will produce markdown format output in the terminal with details of the environment checks performed.
 
 
 ## Usage
@@ -33,5 +33,5 @@ sitrep.r > report.md
 (c) 2023 Mark Sellors
 Release under the MIT License.
 
-See LICENSE and LICENSE.md for more.
+See LICENSE.md for more.
 
