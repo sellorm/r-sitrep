@@ -1,6 +1,6 @@
 # R sitrep - reporting for R based environments
 
-The file `sitrep.r` should be copied to the target system and run.
+The file `sitrep.r` is a command line utility that should be copied to the target system and run.
 
 It will produce a markdown format report with details of the environment.
 
